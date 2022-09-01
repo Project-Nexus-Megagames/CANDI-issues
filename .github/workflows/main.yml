@@ -18,4 +18,4 @@ jobs:
       if: github.event.action == 'opened'
       with:
         project: 'https://github.com/orgs/Project-Nexus-Megagames/projects/1'
-        column-name: ':bug: BUGS'
+        column_name: ':bug: BUGS'
