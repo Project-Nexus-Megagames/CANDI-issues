@@ -20,3 +20,4 @@ jobs:
       with:
         project: 'https://github.com/orgs/Project-Nexus-Megagames/projects/1'
         column_name: ':bug: BUGS'
+        repo-token: ${{secrets.GITHUB_TOKEN}}
