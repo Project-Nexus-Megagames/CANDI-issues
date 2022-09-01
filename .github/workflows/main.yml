@@ -14,5 +14,3 @@ jobs:
           # to the issue
           project-url: https://github.com/orgs/Project-Nexus-Megagames/projects/1
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          column_name: ':bugs: BUGS'
-          labeled: bug
